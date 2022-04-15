@@ -1,0 +1,71 @@
+.hoverBlue
+{
+    transition: all 0.3s ease-in-out;
+
+    &:hover
+    {
+        @apply bg-blue-400 #{!important};
+        
+        svg,
+        h3,
+        p
+        {
+            transition: all 0.3s ease-in-out;
+            color: white;
+        }
+    }
+}
+
+.hoverRed
+{
+    transition: all 0.3s ease-in-out;
+
+    &:hover
+    {
+        @apply bg-red-400 #{!important};
+        
+        svg,
+        h3,
+        p
+        {
+            transition: all 0.3s ease-in-out;
+            color: white;
+        }
+    }
+}
+
+.hoverOrange
+{
+    transition: all 0.3s ease-in-out;
+
+    &:hover
+    {
+        @apply bg-orange-400 #{!important};
+        
+        svg,
+        h3,
+        p
+        {
+            transition: all 0.3s ease-in-out;
+            color: white;
+        }
+    }
+}
+
+.hoverYellow
+{
+    transition: all 0.3s ease-in-out;
+
+    &:hover
+    {
+        @apply bg-yellow-400 #{!important};
+        
+        svg,
+        h3,
+        p
+        {
+            transition: all 0.3s ease-in-out;
+            color: white;
+        }
+    }
+}
