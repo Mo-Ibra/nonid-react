@@ -5,3 +5,8 @@ export { default as Boost } from './boost/Boost';
 export { default as Features1 } from './features/features1/Features1';
 export { default as Features2 } from './features/features2/Features2';
 export { default as Features3 } from './features/features3/Features3';
+export { default as Plans } from './plans/Plans';
+export { default as Sponsors } from './sponsors/Sponsors';
+export { default as Statistics } from './statistics/Statistics';
+export { default as News } from './news/News';
+export { default as Subscripe } from './subscripe/Subscripe'

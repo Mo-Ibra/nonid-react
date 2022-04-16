@@ -1,5 +1,5 @@
 import React from 'react';
-import { Boost, Features1, Features2, Features3, Footer, Header, Navbar } from './components'
+import { Boost, Features1, Features2, Features3, Footer, Header, Navbar, News, Plans, Sponsors, Subscripe } from './components'
 import './App.scss';
 
 function App() {
@@ -11,6 +11,10 @@ function App() {
             <Features1 />
             <Features2 />
             <Features3 />
+            <Plans />
+            <Sponsors />
+            <News />
+            <Subscripe />
             <Footer />
         </React.Fragment>
     )
