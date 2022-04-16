@@ -6,7 +6,7 @@ import ChatImage from '../../../assets/images/chat.png';
 
 function Features2() {
     return (
-        <section className='py-10'>
+        <section className='py-20'>
             <div className="container mx-auto px-10">
                 <div className="grid md:grid-cols-1 lg:grid-cols-2 gap-8">
                     <div>

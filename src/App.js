@@ -1,5 +1,5 @@
 import React from 'react';
-import { Boost, Features1, Features2, Footer, Header, Navbar } from './components'
+import { Boost, Features1, Features2, Features3, Footer, Header, Navbar } from './components'
 import './App.scss';
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
             <Boost />
             <Features1 />
             <Features2 />
+            <Features3 />
             <Footer />
         </React.Fragment>
     )
