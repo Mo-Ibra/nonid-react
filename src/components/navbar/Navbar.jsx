@@ -64,19 +64,16 @@ function Navbar() {
                         <a href="#home" className="nav-link">Home</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#about" className="nav-link">About</a>
+                        <a href="#boost" className="nav-link">Boost</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#services" className="nav-link">Service</a>
+                        <a href="#features" className="nav-link">Features</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#pricing" className="nav-link">Pages</a>
+                        <a href="#price" className="nav-link">Price</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#blog" className="nav-link">Blog</a>
-                    </li>
-                    <li className="nav-item">
-                        <a href="#contact" className='nav-link'>Contact</a>
+                        <a href="#news" className="nav-link">News</a>
                     </li>
                 </ul>
                 <div className="navbar-utils">

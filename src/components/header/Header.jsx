@@ -4,7 +4,7 @@ import SectionImage from '../../assets/images/section.png';
 
 function Header() {
     return (
-        <header className='py-20 relative'>
+        <header className='py-20 relative' id="home">
             <div className="container mx-auto px-10">
                 <div className="grid md:grid-cols-1 lg:grid-cols-2 gap-8">
                     <div className="description">

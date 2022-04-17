@@ -7,7 +7,7 @@ import SectionImage from '../../../assets/images/section.png';
 
 function Features1() {
     return (
-        <section className='py-20 relative'>
+        <section className='py-20 relative' id='features'>
             <div className="container mx-auto px-10">
                 <div className="grid md:grid-cols-1 lg:grid-cols-2 gap-8">
                     <div>
@@ -22,23 +22,23 @@ function Features1() {
                             esse cillum dolore eu fugiat nulla pariatur.
                         </p>
                         <ul className='my-10'>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Refresing to get such a personal touch.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Duis aute irure dolor in reprehenderit in voluptate.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Velit esse cillum dolore eu fugiat nulla pariatur.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Duis aute irure dolor in reprehenderit in voluptate.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Velit esse cillum dolore eu fugiat nulla pariatur.
                             </li>

@@ -4,7 +4,7 @@ import { BsFillCursorFill } from 'react-icons/bs';
 
 function News() {
     return (
-        <section className='py-20'>
+        <section className='py-20' id='news'>
             <div className="container mx-auto px-10">
                 <div className="my-10 text-center">
                     <h2 className='sm:text-2xl md:text-4xl lg:text-5xl text-gray-700 font-bold my-4 drop-shadow-lg w-2/4 mx-auto'>

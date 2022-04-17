@@ -1,4 +1,5 @@
 import React from 'react';
+import './fix.scss';
 import { AiFillCheckCircle } from 'react-icons/ai';
 
 // Images
@@ -10,7 +11,7 @@ function Features3() {
         <section className='py-20 bg-slate-50'>
             <div className="container mx-auto px-10">
                 <div className="grid md:grid-cols-1 lg:grid-cols-2 gap-16">
-                    <div className='relative'>
+                    <div className='fix relative'>
 
                         <img src={ExpertsImage1} alt="Experts" className='absolute top-0 left-0 rounded-xl' />
                         <img src={ExpertsImage2} alt="Experts" className='absolute bottom-0 right-0 rounded-xl' />
@@ -32,23 +33,23 @@ function Features3() {
                             esse cillum dolore eu fugiat nulla pariatur.
                         </p>
                         <ul className='my-10'>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Refresing to get such a personal touch.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Duis aute irure dolor in reprehenderit in voluptate.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Velit esse cillum dolore eu fugiat nulla pariatur.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Duis aute irure dolor in reprehenderit in voluptate.
                             </li>
-                            <li className='my-2 text-gray-500'>
+                            <li className='my-2 text-gray-500 text-sm'>
                                 <AiFillCheckCircle className='text-2xl text-orange-500 inline-block mr-4' />
                                 Velit esse cillum dolore eu fugiat nulla pariatur.
                             </li>
