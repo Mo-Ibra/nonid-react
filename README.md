@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Free React & Tailwind landing page template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Simple TailwindCSS template preview](https://user-images.githubusercontent.com/2683512/96160974-f93aa780-0f16-11eb-9ce4-81d94b216be6.png)
 
-## Available Scripts
+free landing page template built on top of **TailwindCSS** and fully coded in **React**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more. 
+Use it for whatever you want, and be sure to reach us out on Twitter if you build anything cool/useful with it.
+Created and maintained with ❤️ by Dev-Maradona
 
-In the project directory, you can run:
+## Live demo
 
-### `npm start`
+Check the live demo here 👉️ [react-app-landing-page.netlify.app/](react-app-landing-page.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* [Usage](#usage)
+  * [Project setup](#project-setup)
+  * [Compiles and hot-reloads for development](#compiles-and-hot-reloads-for-development)
+  * [Compiles and minifies for production](#compiles-and-minifies-for-production)
+* [Pro Version](#pro-version)
+* [About Us](#about-us)
+* [Stay in the loop](#stay-in-the-loop)
+* [Support](#support)
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project was bootstrapped with [Vite](https://vitejs.dev/).
 
-### `npm run build`
+### Project setup
+```
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Compiles and hot-reloads for development
+```
+npm run dev
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Compiles and minifies for production
+```
+npm run build
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Pro version
 
-### `npm run eject`
+[![Simple Pro](https://user-images.githubusercontent.com/2683512/151178282-fd81b300-349a-42c3-a30a-f70f6e711e74.png)](https://cruip.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## What in the pro version?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+More Components
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Dark** Version
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**14** Inner Page
 
-## Learn More
+Much More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## How can you get it?
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Just buy for me a coffee and write your email and wait for my message :)**
 
-### Code Splitting
+## About Us
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
 
-### Analyzing the Bundle Size
+## Stay in the loop
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Maradon16007828)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Buy a coffe
+Just buy for me a coffee for support me [Buy me a Coffee](https://www.buymeacoffee.com/DevMaradona).
