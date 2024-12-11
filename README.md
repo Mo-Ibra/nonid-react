@@ -54,31 +54,13 @@ npm run dev
 npm run build
 ```
 
-# Pro version
+## License 🤝
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## What in the pro version?
+## Contact 📧
 
-More Components
+For any questions or feedback, feel free to reach out:
 
-**Dark** Version
+**Email: mohamedelgedwy245@gmail.com**
 
-**14** Inner Page
-
-Much More
-
-## How can you get it?
-
-**Just buy for me a coffee and write your email and wait for my message :)**
-
-#
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow us on [Twitter](https://twitter.com/Maradon16007828)
-
-## Buy a coffe
-Just buy for me a coffee for support me [Buy me a Coffee](https://www.buymeacoffee.com/DevMaradona).
+**GitHub: [@Mo-Ibra](https://github.com/Mo-Ibra)**
