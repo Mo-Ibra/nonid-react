@@ -1,5 +1,7 @@
 # Free React & Tailwind landing page template
 
+This is a landing page built with React.js for an agency looking to boost traffic and increase conversions. The page is fully responsive, optimized for both desktop and mobile devices, and features a modern, professional design. It includes clear call-to-action (CTA) sections to help agencies capture leads and promote their services effectively. The design is customizable, allowing easy edits to content and branding. Whether you're offering marketing, SEO, or other services, this landing page is a perfect solution to showcase your agency and drive more traffic.
+
 ![Simple TailwindCSS template preview](https://raw.githubusercontent.com/Dev-Maradona/react-app-landing-page/master/preview/1.png)
 
 ##
