@@ -49,7 +49,7 @@ function Navbar() {
         <>
             <nav className="navbar">
                 <div className="navbar-brand">
-                    <h4 style={{ fontWeight: 'bold', cursor: 'pointer' }}>Your Logo</h4>
+                    <h4 className='font-bold cursor-pointer text-2xl text-orange-500'>NoNID</h4>
                 </div>
                 <button className="navbar-toggler">
                     <AiOutlineMenu aria-hidden="true" />
